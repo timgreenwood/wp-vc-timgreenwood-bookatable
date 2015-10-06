@@ -1,0 +1,29 @@
+.tg_bookatable_toggle {
+}
+
+.tg_bookatable_toggle .toggle-btn {
+}
+
+.tg_bookatable_toggle .toggle-widget {
+    margin: 1rem auto;
+    padding: 0 10%;
+    max-height: 0;
+    overflow: hidden;
+}
+
+.tg_bookatable_toggle .toggle-widget iframe {
+    width: 100%;
+    border: 0;
+}
+
+@media (min-width: 1024px) {
+    .tg_bookatable_toggle .toggle-widget {
+        padding: 0 20%;
+    }
+}
+
+@media (max-width: 768px) {
+    .tg_bookatable_toggle .toggle-widget {
+        padding: 0 2%;
+    }
+}
