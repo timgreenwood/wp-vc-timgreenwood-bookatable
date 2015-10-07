@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: VC - Bookatable widget
-Plugin URI: https://www.timgreenwood.co.uk
+Plugin URI: https://github.com/timgreenwood/wp-vc-timgreenwood-bookatable
 Description: Use this widget for Visual Composer to get the Bookatable Booking Tool on your website.
 Version: 1.0
 Author: Tim Greenwood
