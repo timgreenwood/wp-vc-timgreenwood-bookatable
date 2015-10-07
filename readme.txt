@@ -13,7 +13,7 @@ Use this widget for Visual Composer to get the Bookatable Booking Tool on your w
 
 This plugin Allows you to use the Bookatable Booking Tool in Visual Composer.
 
-Follow along with development of this plugin at https://github.com/Automattic/amp-wp
+Follow along with development of this plugin at https://github.com/timgreenwood/wp-vc-timgreenwood-bookatable
 
 == Installation ==
 
